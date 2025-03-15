@@ -7,6 +7,8 @@ Here are the algorithms
  - Dijkstra's algorithm
  - A* search
 
+All the algorithms can be found in src/trailblazer.cpp
+
 This was a pretty simple project where I got to learn the most common searching algorithms. This was part of a datastructures course I took.
 
 Have a good day :D
